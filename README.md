@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaspartartari
 - 👀 I’m interested learning and developing software programs in Java
-- 🌱 I’m currently learning IT management @UNISINOS university
+- 🌱 I’m currently learning System Analysis and Development @UNISINOS university
 - 💞️ I’m looking to collaborate on java projects
 - 📫 Reach me at gaspartartari@gmail.com
 
