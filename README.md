@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Junior Systems Analyst and Developer with an entrepreneurial background, passionate about solving challenges and constantly seeking new knowledge. My journey in software development was sparked by my experience managing an e-commerce business, which led me to explore the technical aspects of tracking and data analysis. I am currently transitioning into a full-time software development career, focusing on backend development with Java and Spring Boot, as well as frontend development with React.
+I am a full-stack software developer with an entrepreneurial background, passionate about solving challenges and constantly seeking new knowledge. My journey in software development was sparked by my experience leading digital marketing and website bulding for ecommerce brands, which led me to explore the technical aspects of tracking, data analysis and web development. 
 
 ## Skills and Technologies
 
@@ -11,7 +11,7 @@ I am a Junior Systems Analyst and Developer with an entrepreneurial background, 
   - Proficient in Java 
   - Familiar with Python and TypeScript for web development
 - **Frameworks:**
-  - Proficient with Spring Boot MVC, JPA/Hibernate, REST API, Spring Security, Oauth2/JWT, JUnit, RestAssured
+  - Proficient with Spring Boot MVC, JPA/Hibernate, REST API, Spring Security, Oauth2/JWT, JUnit, RestAssured, ReactJs
 - **Databases:**
   - Skilled in developing conceptual and logical database models, SQL/JPQL
   - Experienced with Postgres and MySQL
