@@ -1,29 +1,48 @@
+# Hi there, I'm Gaspar Tartari 👋
 
-# Hi, I’m Gaspar Tartari 👋
+## 🚀 About Me
 
-## About Me
+I am a passionate **Full-Stack Software Developer** with an entrepreneurial spirit, dedicated to building scalable and efficient software solutions. My journey into software development began with my hands-on experience in digital marketing and e-commerce, where I led projects in website building and performance analysis. This ignited my interest in the technical side of tracking, data analysis, and full-stack web development.
 
-I am a full-stack software developer with an entrepreneurial background, passionate about solving challenges and constantly seeking new knowledge. My journey in software development was sparked by my experience leading digital marketing and website bulding for ecommerce brands, which led me to explore the technical aspects of tracking, data analysis and web development. 
+I'm always eager to learn and embrace new challenges, whether it's diving into the latest tech stack or optimizing an existing system.
 
-## Skills and Technologies
+## 🛠️ Skills & Technologies
 
-- **Programming Languages:** 
-  - Proficient in Java 
-  - Familiar with Python and TypeScript for web development
-- **Frameworks:**
-  - Proficient with Spring Boot MVC, JPA/Hibernate, REST API, Spring Security, Oauth2/JWT, JUnit, RestAssured, ReactJs
+- **Programming Languages:**
+  - 💻 **Java** - Proficient
+  - 🐍 **Python** - Familiar
+  - 🌐 **TypeScript** - Familiar
+
+- **Frameworks & Libraries:**
+  - ☕ **Spring Boot** (MVC, JPA/Hibernate, REST API, Spring Security, OAuth2/JWT)
+  - ⚛️ **ReactJS** for dynamic front-end development
+  - 🧪 **JUnit & RestAssured** for testing
+
 - **Databases:**
-  - Skilled in developing conceptual and logical database models, SQL/JPQL
-  - Experienced with Postgres and MySQL
-  - Basic knowledge of MongoDB for NoSQL solutions
-- **Development Tools:**
-  - Proficient with Visual Studio Code, Postman, Heroku.
+  - 🛢️ **PostgreSQL & MySQL** - Experienced in SQL/JPQL, database modeling
+  - 📦 **MongoDB** - Basic knowledge for NoSQL solutions
+
+- **Tools & Platforms:**
+  - 🛠️ **Visual Studio Code** - Proficient
+  - 📬 **Postman** for API testing
+  - 🌍 **Heroku** for deployment
+
 - **Version Control:**
-  - Experienced in using Git for version control with GitHub and BitBucket for repository management
+  - 🔧 **Git** - Proficient with GitHub & BitBucket for collaborative development
+
 - **Software Development:**
-  - Strong grasp of object-oriented programming, clean code principles, and the software development life cycle
+  - 📚 Strong understanding of **Object-Oriented Programming**, **Clean Code Principles**, and the **Software Development Life Cycle (SDLC)**
 
-## Contact
 
-- 📫 Reach me at gaspartartari@gmail.com
+## 💬 Let's Connect
 
+- 📫 Feel free to reach out at **[gaspartartari@gmail.com](mailto:gaspartartari@gmail.com)**
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaspartartari) - Let's network!
+
+---
+
+
+### 🏆 Top Projects
+
+- [**Serverless Conversation Analysis**](https://github.com/gaspartartari/amazon-bedrock-app) - This project demonstrates a serverless architecture that leverages AWS Lambda, Amazon S3, and Amazon Bedrock for processing, analyzing, and summarizing conversation transcripts.
+- [**DsCommerce**](https://github.com/gaspartartari/dscommerce) - DsCommerce serves as a robust example of enterprise-level backend ecommerce application development..
