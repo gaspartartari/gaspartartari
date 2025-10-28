@@ -1,48 +1,31 @@
-# Hi there, I'm Gaspar Tartari 👋
+# Hi, I'm Gaspar Tartari
 
-## 🚀 About Me
+## About Me
 
-I am a passionate **Full-Stack Software Developer** with an entrepreneurial spirit, dedicated to building scalable and efficient software solutions. My journey into software development began with my hands-on experience in digital marketing and e-commerce, where I led projects in website building and performance analysis. This ignited my interest in the technical side of tracking, data analysis, and full-stack web development.
+I’m a **Full-Stack Software Developer** with an entrepreneurial mindset, focused on building scalable, reliable, and data-driven applications.
 
-I'm always eager to learn and embrace new challenges, whether it's diving into the latest tech stack or optimizing an existing system.
+My path into software development began through years of hands-on experience in digital marketing and e-commerce, where I led technical projects involving analytics, automation, and website optimization. This experience evolved into a strong interest in backend architecture, API design, and system integrations — ultimately shaping my transition into full-stack development.
 
-## 🛠️ Skills & Technologies
-
-- **Programming Languages:**
-  - 💻 **Java** - Proficient
-  - 🐍 **Python** - Familiar
-  - 🌐 **TypeScript** - Familiar
-
-- **Frameworks & Libraries:**
-  - ☕ **Spring Boot** (MVC, JPA/Hibernate, REST API, Spring Security, OAuth2/JWT)
-  - ⚛️ **ReactJS** for dynamic front-end development
-  - 🧪 **JUnit & RestAssured** for testing
-
-- **Databases:**
-  - 🛢️ **PostgreSQL & MySQL** - Experienced in SQL/JPQL, database modeling
-  - 📦 **MongoDB** - Basic knowledge for NoSQL solutions
-
-- **Tools & Platforms:**
-  - 🛠️ **Visual Studio Code** - Proficient
-  - 📬 **Postman** for API testing
-  - 🌍 **Heroku** for deployment
-
-- **Version Control:**
-  - 🔧 **Git** - Proficient with GitHub & BitBucket for collaborative development
-
-- **Software Development:**
-  - 📚 Strong understanding of **Object-Oriented Programming**, **Clean Code Principles**, and the **Software Development Life Cycle (SDLC)**
-
-
-## 💬 Let's Connect
-
-- 📫 Feel free to reach out at **[gaspartartari@gmail.com](mailto:gaspartartari@gmail.com)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaspartartari) - Let's network!
+I value clean architecture, continuous learning, and delivering software that solves real-world problems with efficiency and clarity.
 
 ---
 
+## Demo Projects
 
-### 🏆 Top Projects
+### [Serverless Conversation Analysis](https://github.com/gaspartartari/amazon-bedrock-app)
 
-- [**Serverless Conversation Analysis**](https://github.com/gaspartartari/amazon-bedrock-app) - This project demonstrates a serverless architecture that leverages AWS Lambda, Amazon S3, and Amazon Bedrock for processing, analyzing, and summarizing conversation transcripts.
-- [**DsCommerce**](https://github.com/gaspartartari/dscommerce) - DsCommerce serves as a robust example of enterprise-level backend ecommerce application development..
+A serverless architecture using **AWS Lambda**, **Amazon S3**, and **Amazon Bedrock** to process, analyze, and summarize conversation transcripts automatically.
+
+### [DsCommerce](https://github.com/gaspartartari/dscommerce)
+
+An enterprise-style **Spring Boot e-commerce backend**, showcasing layered architecture, JWT authentication, and efficient entity management with JPA/Hibernate.
+
+---
+
+## Contact
+
+* **Email:** [gaspartartari@gmail.com](mailto:gaspartartari@gmail.com)
+* **LinkedIn:** [linkedin.com/in/gaspartartari](https://www.linkedin.com/in/gaspartartari)
+
+---
+
